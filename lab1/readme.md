@@ -192,4 +192,4 @@ model=Corolla&make=Toyota&year=2020
 
 ### *Laboratorul realizat de: Zamă Andrei*
 #### *Grupa: IAFR2101RO*
-[Telegram](https://t.me/twodloly)
+**[Telegram](https://t.me/twodloly)**
