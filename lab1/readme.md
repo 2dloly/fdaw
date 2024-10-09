@@ -175,3 +175,19 @@ model=Corolla&make=Toyota&year=2020
    curl -X POST http://sandbox.usm.md/quest -H "User-Agent: John Doe"
    ```
 2. Urmați instrucțiunile de pe server, îndeplinindu-le în ordine.
+3. La finalul quest-ului, vi se va afișa un cuvânt secret, pe care va trebui să-l includeți în raport.
+   > secret: CjkdGkpxTV1iUVlGVw==
+
+---
+### *Intrebări de autoevaluare*
+
+1. Ce este protocolul HTTP?
+   > (Hypertext Transfer Protocol) este un protocol de comunicație care definește modul în care informațiile sunt transferate între un client (de exemplu, un browser) și un server web.
+3. Pentru ce folosim antetul User-Agent?
+   > Antetul User-Agent este folosit pentru a identifica aplicația client (browser-ul sau alt instrument de rețeat) către server, astfel încât serverul să poată returna informații personalizate.
+5. Care este diferența dintre metodele PUT și PATCH?
+   > PUT încălocuiește întreaga resursă de la server cu datele furnizate, în timp ce PATCH actualizează doar anumite porțiuni ale resursei fără a o încălocui în totalitate.
+
+---
+
+### *Laboratorul realizat de:Zamă Andrei* [Telegram](t.me/twodloly)
