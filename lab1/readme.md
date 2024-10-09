@@ -4,7 +4,7 @@
 
 1. Accesați site-ul http://sandbox.usm.md/login.
 
-![login](https://res.cloudinary.com/dko0nafa9/image/upload/v1728430134/Screenshot_1_gfrxuw.png)
+![login](https://github.com/2dloly/photo/blob/main/fdaw/Screenshot_1.png)
 
 2. Deschideți fila Network în instrumentele pentru dezvoltatori ale browserului.
 
